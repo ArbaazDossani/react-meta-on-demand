@@ -13,5 +13,33 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "_npmUser": {
+    "name": "arbaazadossani",
+    "email": "arbaazdossani@gmail.com"
+  },
+  "main": "./updateMeta.js",
+  "description": "ReactJS Stateless Javascript Function for Dynamic Meta Tags",
+  "keywords": [
+    "react",
+    "meta",
+    "dynamic",
+    "tags",
+    "on-demand",
+    "reactJS"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "arbaazadossani",
+      "email": "arbaazdossani@gmail.com"
+    }
+  ],
+  "name": "react-meta-on-demand",
+  "optionalDependencies": {},
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://ArbaazAnDossani@bitbucket.org/ArbaazAnDossani/react-meta-on-demand.git"
+  },
 }
