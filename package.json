@@ -1,45 +1,41 @@
 {
-  "name": "react-meta-on-demand",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-router-dom": "^4.1.2",
-    "react-scripts": "1.0.11"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "_npmUser": {
-    "name": "arbaazadossani",
-    "email": "arbaazdossani@gmail.com"
-  },
-  "main": "./updateMeta.js",
-  "description": "ReactJS Stateless Javascript Function for Dynamic Meta Tags",
-  "keywords": [
-    "react",
-    "meta",
-    "dynamic",
-    "tags",
-    "on-demand",
-    "reactJS"
-  ],
-  "license": "MIT",
-  "maintainers": [
-    {
-      "name": "arbaazadossani",
-      "email": "arbaazdossani@gmail.com"
-    }
-  ],
-  "name": "react-meta-on-demand",
-  "optionalDependencies": {},
-  "private": false,
-  "repository": {
-    "type": "git",
-    "url": "git+https://ArbaazAnDossani@bitbucket.org/ArbaazAnDossani/react-meta-on-demand.git"
-  },
+	"name": "react-meta-on-demand",
+	"version": "0.1.0",
+	"dependencies": {
+		"react": "^15.6.1",
+		"react-dom": "^15.6.1",
+		"react-router-dom": "^4.1.2",
+		"react-scripts": "1.0.11"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	},
+	"_npmUser": {
+		"name": "arbaazadossani",
+		"email": "arbaazdossani@gmail.com"
+	},
+	"main": "./updateMeta.js",
+	"description": "ReactJS Stateless Javascript Function for Dynamic Meta Tags",
+	"keywords": [
+		"react",
+		"meta",
+		"dynamic",
+		"tags",
+		"on-demand",
+		"reactJS"
+	],
+	"license": "MIT",
+	"maintainers": [{
+		"name": "arbaazadossani",
+		"email": "arbaazdossani@gmail.com"
+	}],
+	"optionalDependencies": {},
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://ArbaazAnDossani@bitbucket.org/ArbaazAnDossani/react-meta-on-demand.git"
+	}
 }
