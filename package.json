@@ -36,6 +36,6 @@
 	"private": false,
 	"repository": {
 		"type": "git",
-		"url": "git+https://ArbaazAnDossani@bitbucket.org/ArbaazAnDossani/react-meta-on-demand.git"
+		"url": "https://ArbaazAnDossani@bitbucket.org/ArbaazAnDossani/react-meta-on-demand.git"
 	}
 }
